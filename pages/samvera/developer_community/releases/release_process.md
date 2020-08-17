@@ -7,12 +7,12 @@ toc: true
 folder: samvera/developer_community/releases/
 ---
 
-The [Repository Managers Interest Group](https://wiki.duraspace.org/display/samvera/Repository+Management+Interest+Group) will work with the Hyrax PO to test and document features for Hyrax releases. For each release cycle, there will be at least one designated QA Specialist from the [Hyrax Working Group](https://wiki.duraspace.org/display/samvera/Hyrax+Working+Group) or the Repo-Managers to facilitate the process. [Instructions for conducting release testing can be found here](/release_testing.html) (in progress).
+The [Repository Managers Interest Group](https://wiki.duraspace.org/display/samvera/Repository+Management+Interest+Group) will work with the Hyrax PO to test and document features for Hyrax releases; this group will also ensure that the Managers Guide is up-to-date. For each release cycle, there will be at least one designated QA Specialist from the [Hyrax Working Group](https://wiki.duraspace.org/display/samvera/Hyrax+Working+Group) or the Repo-Managers to facilitate the process. [Instructions for conducting release testing can be found here](/release_testing.html) (in progress).
 
 For each cycle the Release Testing facilitator will:
 
 - Communicate with testers and demo site committers about timing of upcoming release.
-- Ensure the Managers Guide, UI Interactions, Test Tracking Spreadsheet and demo site are up to date for the process of testing and documentation.
+- Ensure UI Interactions, Test Tracking Spreadsheet, and demo site are up-to-date for the process of testing and documentation.
 - Recruit help with testing, bug reporting and documentation.
 - Ensure testing and documentation is complete.
 
